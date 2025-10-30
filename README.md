@@ -50,10 +50,10 @@ This project was created as part of a **React internship machine test**.
 
 ```bash
 # Clone this repository
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/ashikdev6282/react-crud-machine-task.git
 
 # Move into project folder
-cd <repo-name>
+cd fake_store
 
 # Install dependencies
 npm install
